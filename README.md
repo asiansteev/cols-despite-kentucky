@@ -1,5 +1,5 @@
 # Cols Despite Kentucky
-Cols Despite Kentucky is an unofficial Lexington, KY themed Cards Against Humanity supplement.  
+Cols Despite Kentucky is an unofficial Lexington, KY-themed Cards Against Humanity supplement.  
 Images manipulated with [Gimp](http://gimp.org).
 
 ## The Cards
